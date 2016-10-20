@@ -69,4 +69,4 @@ theme: icarus
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/hieunh161/fxat.github.io
+  repo: https://github.com/hieunh161/at

@@ -1,5 +1,8 @@
 ---
 title: Hospitality
+date: 2016-10-20 23:20:04
+tags: soft-skill
+
 ---
 ## 1. Hospitality là gì?
 Hospitality là một từ xuất hiện ở Anh từ khoảng năm 1325 – 1375. Theo từ điển thì nó có nghĩa là việc đối xử một cách thân thiện, tử tế của một người chủ với một người khách hoặc một người lạ nào đó. Ví dụ như câu give a person a hospitality. Nó là một danh từ đếm được, nghĩa là có thể có nhiều hospitalities, tức là có nhiều hành động tử tế. Khi nó du nhập vào Nhật thì người Nhật chấp nhận từ đó với ý nghĩa là nghĩ cho người khác, làm những điều vì người khác, hay đối xử với người khác từ trái tim mình đúng như văn hóa của người Nhật. Và đặc biệt từ này đã trở thành một từ như chỉ về các dịch vụ đặc biệt làm hài lòng khách hàng trong kinh doanh. Khi nói về việc làm một hospitality cho một người nào khác thì người Nhật hiểu rằng hành động đó không chỉ là vì đối phương mà nó còn hàm chứa cả tấm lòng của người thực hiện hành động.
