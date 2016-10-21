@@ -2,12 +2,13 @@
 title: Hospitality
 date: 2016-10-20 23:20:04
 tags: soft-skill
+category: social
 
 ---
 ## 1. Hospitality là gì?
 Hospitality là một từ xuất hiện ở Anh từ khoảng năm 1325 – 1375. Theo từ điển thì nó có nghĩa là việc đối xử một cách thân thiện, tử tế của một người chủ với một người khách hoặc một người lạ nào đó. Ví dụ như câu give a person a hospitality. Nó là một danh từ đếm được, nghĩa là có thể có nhiều hospitalities, tức là có nhiều hành động tử tế. Khi nó du nhập vào Nhật thì người Nhật chấp nhận từ đó với ý nghĩa là nghĩ cho người khác, làm những điều vì người khác, hay đối xử với người khác từ trái tim mình đúng như văn hóa của người Nhật. Và đặc biệt từ này đã trở thành một từ như chỉ về các dịch vụ đặc biệt làm hài lòng khách hàng trong kinh doanh. Khi nói về việc làm một hospitality cho một người nào khác thì người Nhật hiểu rằng hành động đó không chỉ là vì đối phương mà nó còn hàm chứa cả tấm lòng của người thực hiện hành động.
 
-
+<!-- more -->
 ## 2. Hospitality và dịch vụ (services)
 Trong kinh doanh người ta hay thường nói rằng chúng ta kinh doanh dịch vụ (services) và các công ty luôn cố gắng rằng mình sẽ phải đưa ra các dịch vụ tốt nhất theo ý hiểu đó là làm hài lòng khách hàng. Và hầu như trong thời đại ngày nay nó như là một điều tất yếu. Ở Việt Nam dù cách hành xử vẫn chưa được tốt, nhưng ko thể phủ nhận xu thế này cũng đang dần dần trở thành một điều tất yếu khi nền kinh tế hội nhập và vận động theo cơ chế thị trường. Khi việc cạnh tranh giữa các công ty ngày một khốc liệt hơn, họ không chỉ cạnh tranh về giá, về chất lượng sản phẩm mà còn về chất lượng dịch vụ cung cấp. Như là lắp đặt tận nơi, giúp đỡ vận chuyển tận nhà …
 Vậy thì sự khác biệt giữa dịch vụ và hospitality nghĩa là gì? Để làm rõ sự khác biệt chúng ta bắt đầu từ nguồn gốc xuất xứ. Từ service xuất phát từ các từ gốc latin là servus , slane, servant nghĩa là nô lệ hay đầy tớ. Người nhận service chính là người chủ, theo nghĩa quan hệ chủ tớ. Và nó cho thấy việc thể hiện thái độ tôn trọng khách hàng, khách hàng là thượng đế đúng quan điểm của người phương tây. Với từ hospitality thì nó xuất phát từ hospital, hospics, hospice nghĩa là bệnh viện, trại chăm sóc, người chăm sóc. … Từ đó điểm khác biệt lớn nhất của 2 từ nằm ở việc từ hospitality mang khuynh hướng của sự đối xử, chăm sóc, niềm vui khi được làm việc gì đó cho người khác hơn là việc làm vì trách nhiệm. Bạn nên hiểu rằng khi mà ngày xưa việc chăm sóc y tế không phải là dịch vụ như bây giờ, nó còn bao gồm cả tình cảm giữa con người với con người, sự giúp đỡ nhau lúc khó khăn …
