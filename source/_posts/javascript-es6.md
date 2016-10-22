@@ -5,6 +5,7 @@ tags:
      - javascript 
      - es6
 category: memo
+thumbnail: '../../../../css/images/thumbnail/es6.jpeg'
 
 ---
 
@@ -179,3 +180,91 @@ const { pony } = randomPonyInRace();
 ```
 
 Kết quả chúng ta sẽ chỉ lấy giá trị pony
+
+##  Các giá trị và tham số mặc định
+
+Một trong những đặc điểm nổi bật của javascript là cho phép người dùng gọi hàm với số lượng tham số bất kỳ
+  * Nếu chúng ta truyền nhiều hơn số lượng tham số khai báo, phần vượt quá sẽ được bỏ qua. Chính sác hơn chúng ta có thể lấy phần tham số thừa thông qua biến đặc biệt là <strong>arguments</strong>
+  * Nếu chúng ta truyền ít hơn tham số khai báo, phần thiếu sẽ có giá trị là <strong>undefined</strong>
+Trong trường hợp thứ 2 thông thường khi muốn thêm mặc định cho biến chúng ta thường làm như sau
+
+```javascript
+function getPonies(size, page) {
+  size = size || 10;
+  page = page || 1;
+  // ...
+  server.get(size, page);
+}
+```
+
+ES6 cung cấp cho chúng ta cách làm đơn giản hơn trong trường hợp này
+
+```javascript
+function getPonies(size = 10, page = 1) {
+  // ...
+  server.get(size, page);
+}
+```
+
+>Có một chút khác biệt nhỏ giữa 2 cách. Vì 0 và "" là các giá trị hợp lệ, do đó nó sẽ không được thay thế bởi giá trị mặc định. Trong khi size = size || 10 sẽ lấy giá trị 10 khi truyền size = 0. Trong ES6 cách tính sẽ giống như dùng công thức sau size = size === undefined ? 10: size;
+
+Giá trị mặc định có thể là hàm hoặc có thể là biến khác
+
+```javascript
+function getPonies(size = defaultSize(), page = size - 1) {
+  // ...
+  server.get(size, page);
+}
+```
+
+Chúng ta có thể sử dụng giá trị mặc định cho các việc Destructuring biến như sau:
+
+```javascript
+    const { timeout = 1000 } = httpOptions;
+    // you now have a variable named 'timeout',
+    // with the value of 'httpOptions.timeout' if it exists
+    // or 1000 if not
+```
+
+## Toán tử Rest ...
+
+Vói javascript chúng ta có thể làm như sau khi truyền nhiều tham số hơn số lượng khai báo.
+
+```javascript
+function addPonies(ponies) {
+  for (var i = 0; i < arguments.length; i++) {
+    poniesInRace.push(arguments[i]);
+  }
+}
+addPonies('Rainbow Dash', 'Pinkie Pie');
+```
+ES6 giới thiệu một cú pháp mới để định nghĩa các biến tham số trong các hàm một cách ngắn gọn hơn đó là toán tử Rest ...
+
+```javascript
+function addPonies(...ponies) {
+  for (let pony of ponies) {
+    poniesInRace.push(pony);
+  }
+} 
+```
+
+ponies giờ sẽ trở thành một mảng có thể loop được bằng cách sử dụng for ... of. (Đây cũng là một tính năng mới của ES6). Toán tử Rest được sử dụng để lấy list các tham số truyền vào hàm.
+Toán tử rest cũng có thể áp dụng khi Destructuring dữ liệu
+
+```javascript
+    const [winner, ...losers] = poniesInRace;
+    // poniesInRace là một mảng chứa nhiều pony
+    // 'winner' sẽ chứa pony đầu tiên
+    // và 'losers' sẽ là một mảng của các phần tử còn lại
+```
+
+## Toán tử Spread ...
+
+Trong khi Rest sử dụng để cấu thành nhiều biến riêng biệt thành một mảng đơn lẻ, thì spread lại mang ý nghĩa ngược lại là phân tách 1 mảng thành các phần tử riêng lẻ.
+
+```javascript
+    const ponyPrices = [12, 3, 4];
+    const minPrice = Math.min(...ponyPrices);
+```
+
+Tobe continued ...
