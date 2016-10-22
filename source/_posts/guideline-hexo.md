@@ -2,7 +2,6 @@
 title: Hướng dẫn viết blog
 date: 2016-10-21 00:20:04
 tags: guideline
-category: guideline
 
 ---
 
@@ -16,7 +15,6 @@ Blog sử dụng hexo dựa trên nodejs nên cần cài đặt nodejs
 ```bash
 npm install hexo-cli -g
 ```
-
 <!-- more -->
 ## Get source code từ github
 

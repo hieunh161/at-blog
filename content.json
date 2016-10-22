@@ -1,1 +1,6 @@
-{}
+[{ //-> only published posts
+  "title": "post.title",
+  "date": "post.date",
+  "text": "post.content", //-> only text minified ;)
+  "path": "post.path"
+}]
