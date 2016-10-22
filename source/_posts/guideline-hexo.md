@@ -2,6 +2,7 @@
 title: Hướng dẫn viết blog
 date: 2016-10-21 00:20:04
 tags: guideline
+category: guideline
 
 ---
 

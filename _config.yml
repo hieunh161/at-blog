@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: AT's Blog
+title: AT Team
 subtitle: 
 description:
 author: AT Team
@@ -12,8 +12,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://atblog.herokuapp.com/child' and root as '/child/'
-url: https://hieunh161.github.io/at/
-root: /at
+url: https://hieunh161.github.io/
+root: /at/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -44,7 +44,7 @@ highlight:
   tab_replace:
 
 # Category & Tag
-default_category: life
+default_category: memo
 category_map:
 tag_map:
 category_generator:
