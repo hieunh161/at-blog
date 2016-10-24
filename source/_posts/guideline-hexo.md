@@ -27,7 +27,7 @@ cd {thư mục source}
 npm install
 ```
 
-## Tạo bài viết mới và public lên heroku
+## Tạo bài viết mới và public lên github
 
 4. Tạo bài viết mới bằng lệnh
 

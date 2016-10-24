@@ -5,7 +5,6 @@ tags:
      - javascript 
      - es6
 category: memo
-thumbnail: '../../../../css/images/thumbnail/es6.jpeg'
 
 ---
 

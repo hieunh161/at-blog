@@ -101,6 +101,7 @@ jsonContent:
     link: true
     permalink: true
     excerpt: true
+    toc: true
     keywords: true # but only if root keywords option language was set
     text: true
     raw: false

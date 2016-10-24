@@ -1,0 +1,60 @@
+---
+title: The mythical men-day (Phần 3)
+date: 2016-10-18 14:32:54
+category: production
+tags: productivity
+
+---
+
+## Mở đầu
+
+Cốt lõi của việc tăng hiệu quả sản xuất vẫn là làm thế nào để tăng năng suất lao động. Năng suất lao động là chìa khóa quyết định sự phát triển, bởi vì nếu không thể tăng năng suất lao động có nghĩa là tổ chức của bạn sẽ khó có cơ hội cạnh tranh, khó có cơ hội tăng lợi nhuận, khó có cơ hội đạt được bước nhảy về thu nhập cho nhân viên … Có nhiều công ty chọn cho mình hướng phát triển với việc mở rộng quy mô, mở rộng thị trường. Tất nhiên là việc phát triển mở rộng thị trường nếu thành công là việc phải ưu tiên hàng đầu, thế nhưng nó cũng là những việc gắn liền với quyết định quản trị của các top-manager. Xét trên khía cạnh của  những người lao động thực sự, những người chiếm phần lớn trong công ty thì họ sẽ nhận được rất ít hoặc không được lợi gì từ hoạt động mở rộng đó. Bởi vì nếu năng suất không đổi thì người công nhân không có lý do gì để có thể tăng thu nhập. Một công nhân hôm nay sản xuất 10 sản phẩm, và 1 năm sau vẫn công nhân đấy vẫn 10 sản phẩm đấy thì chắc chắn rằng anh ta vẫn sẽ chỉ nhận được số tiền lương giống 1 năm trước. Vậy có thể hiểu định tính rằng, năng suất và giá trị trung bình sẽ là một đại lượng tỉ lệ với nhau. Thông thường nó không phải là một hàm tuyến tính mà nó sẽ là một tỉ lệ cao hơn thậm chí là hàm số mũ vì các ảnh hưởng của năng suất lên khả năng bán hàng, khả năng cạnh tranh của doanh nghiệp. Tuy nhiên để dễ hiểu chúng ta cứ hình dung nó tương tự như dưới đây.
+
+![](https://c2.staticflickr.com/6/5618/30417215951_b45b50705b_b.jpg)
+
+<!-- more -->
+## Vậy năng suất là gì?
+
+Trong nhiều trường hợp năng suất có thể dễ dàng định nghĩa được, tuy nhiên trong nhiều trường hợp để tìm ra đúng năng suất là gì thì thực sự là một điều khó khăn. Thông thường sẽ có 2 cách để định nghĩa một khái niệm. Một đó là diễn giải khái niệm đó ra theo cách mọi người có thể hiểu, cách thứ 2 đó là đưa ra hiện tượng và gán nó vào. Ở đây tôi sẽ chọn cách thứ 2 và đưa ra 2 ví dụ để biểu thị cho 2 trường hợp điển hình về năng suất, và cách thông thường mọi người suy nghĩ về nó.
+
+Case 1 : Trong một nhà máy sản xuất hàng may mặc, thông thường năng suất có thể dễ dàng định nghĩa bằng số lượng sản phẩm may người công nhân sản xuất ra trong một đơn vị thời gian. Chúng ta có thể định nghĩa theo công thức : H = A/t với A là số lượng sản phẩm, t là thời gian sản xuất. Và để tính tiền công cho công nhân trong trường hợp này cũng rất dễ dàng, chúng ta chỉ cần lấy năng suất H nhân với thời gian t người công nhân làm việc. Trong trường hợp này năng suất cũng là một hàm tỉ lệ với sản lượng. Năng suất sẽ tăng khi sản lượng tăng.
+
+![](https://c2.staticflickr.com/6/5542/30417216371_959bf1004f_b.jpg)
+
+Case 2: Trong lĩnh vực sản xuất phần mềm, làm thế nào để có thể xác định được năng suất của một developer. Trước kia trong các giáo trình quản trị phần mềm cũng có nêu ra một số cách để xác định như thông qua số lượng module, checkbox tạo ra, hay thông qua số dòng code… Tuy nhiên cách nào cũng đều không hoàn toàn hợp lý. Bởi vì dù dòng code có giống nhau thì chất lượng cũng sẽ khác, và dù cùng tạo một GUI, những cũng có module tạo dễ, module tạo khó. Chính vì thế những ngành khó định lượng thường có những quy luật pareto như 20% nhân viên sẽ tạo ra 80% khối lượng sản phẩm. Những ngành như thế đánh giá productivity của mỗi cá nhân sẽ vô cùng khó, thông thường các nhà quản lý đều đánh giá chung chung định tính và thường cào bằng giá trị của các nhân viên ra. Vì thế cuối cùng trong các lĩnh vực như thế này họ thường hướng tới đánh giá tổng thể của một project, một sản phẩm cụ thể. Cũng có các công ty làm phần mềm thường lấy số lượng dòng code developer code để đo productivity cho sản phẩm của mình. Thế nhưng liệu nó có phải là phương pháp đúng. Theo tôi đó là một cách làm vô cùng sai lầm. Lý do là tổng số dòng code không đánh giá được đúng năng suất của developer, vì nhiều dòng code chưa hẳn đã hiệu quả hơn ít dòng code. Trong các dự án ở các công ty, họ thường cố gắng giảm thiểu tối đa số LOC(Line of code) càng nhiều càng tốt, bởi vì nhiều dòng code có nghĩa bạn sẽ phải typing nhiều hơn, thời gian suy nghĩ ít hơn, tốn thời gian hơn, nhiều code cũng có nghĩa số lượng bug tiềm tàng cũng tăng lên… đồng nghĩa với việc khách hàng sẽ tốn chi phí nhiều hơn. Tất nhiên tiết kiệm ở đây không phải là bạn giảm comment code, viết code tối nghĩa đi, mà nó có thể giảm dựa vào cấu trúc hệ thống tốt hơn, common hóa các module tốt hơn ….Vậy trong trường hợp này chúng ta phải định nghĩa năng suất lao động như thế nào cho đúng. Để đơn giản tôi cho rằng năng suất trong trường hợp này có thể được tính số lượng người cần thiết để có thể hoàn thành một sản phẩm. Vậy năng suất là đại lượng tỉ lệ nghịch với số lượng người cần thiết để phát triển một sản phẩm nào đó. Cùng một sản phẩm mà cần nhiều người phát triển hơn đồng nghĩa với việc năng suất sẽ thấp hơn và ngược lại. Năng suất ở đây là một hàm số tỉ lệ nghịch với số người. Giả sử rằng giá trị của phần mềm làm ra là không đổi (constanst) thì năng suất tăng đồng nghĩa với tỉ suất lợi nhuận của công ty và nhân viên đều tăng.  Tất nhiên thực tế cũng sẽ không phải là một đường thẳng vì nó sẽ liên quan tới nhiều vấn đề khác như effort dành cho quản lý, dành cho communication. Nếu bạn nào muốn tìm hiểu hơn về điều này có thể tìm đọc cuốn mythical men-month để hiểu rõ hơn. Ở đây tôi chỉ muốn mô hình hóa cho dễ hiểu.
+
+![](https://c2.staticflickr.com/6/5566/30417216151_e7e86bcb16_b.jpg)
+
+Vậy trong 2 trường hợp chúng ta có thể hiểu sơ qua về năng suất và khái niệm của nó trong các tổ chức. Mỗi trường hợp khác nhau sẽ có những định nghĩa khác nhau về năng suất. Và hầu hết đều theo cách này hay cách khác các nhà quản lý đều cố gắng để có thể đo đạc được.
+
+## Ảnh hưởng của chất lượng
+
+Trong các tính toán về năng suất thường người ta thường ít tính tới yếu tố về chất lượng, bởi vì chất lượng là một đại lượng khó định lượng. Tuy nhiên thực tế thì cần phải hiểu rằng, yếu tố chất lượng cũng là một phần của năng suất.  Năng suất thực tế được cấu thành từ 2 yếu tố sản lượng và chất lượng.
+
+![](https://c2.staticflickr.com/6/5566/30417216151_e7e86bcb16_b.jpg)
+
+Mục đích chính của OE là tăng năng suất của hoạt động sản xuất sẽ quay về việc tăng sản lượng và chất lượng. Tôi sẽ phân tích về tác động của chất lượng tới năng suất.
+
+Giả sử một người công nhân vẫn may mặc, tuy nhiên vì anh ta may ẩu nên dù sản lượng cao tuy nhiên chất lượng của áo rất kém và khi bán ra bị khách hàng kiểm tra phát hiện ra đường may kém chất lượng, họ phàn nàn và họ đòi trả lại lô hàng bao gồm cả những chiếc áo tốt của các công nhân khác. Vậy trong trường hợp này ảnh hưởng của người đó tới công ty còn nặng nề hơn việc sản lượng của anh ta kém. Thường ở trong bất kỳ lĩnh vực nào, sản lượng và chất lượng là hai đại lượng nghịch với nhau vì thời gian làm việc là một số cố định. Khi chất lượng tăng thì sản lượng có nguy cơ giảm và ngược lại, khi chạy theo số lượng thì chất lượng lại có nguy cơ tụt giảm. Cả hai yếu tố này dù yếu tố nào giảm cũng đều có hại cho công ty và tổ chức. Chính vì thế OE nhấn mạnh tới việc cải thiện cả hai yếu tố. Trong nhiều trường hợp chất lượng sẽ tăng tính cạnh tranh của công ty, đồng thời giúp cho công ty có lợi thế trong việc phân phối, bán hàng. Trong những trường hợp như thế tác động của chất lượng có thể quyết định rất lớn tới khả năng phát triển, khả năng mở rộng của công ty.
+
+Quay lại câu chuyện của người Nhật Bản, ngoài việc cố gắng cải tiến tối đa hiệu quả bằng việc dư thừa, lãng phí, tăng sản lượng bằng việc cơ giới hóa. Người Nhật cũng luôn cố gắng giảm thiểu tối đa lỗi, đưa ra những quy trình tối ưu để có thể cung cấp những sản phẩm chất lượng tốt nhất. Hơn thế họ cũng không ngừng áp dụng kỹ thuật công nghệ để có thể đưa ra những sản phẩm đi trước đối thủ của mình. Dù khởi đầu thua xa những người phương Tây, nhưng trong những thập kỷ qua đã rất nhiều lần người Nhật đi trước phương Tây về mặt công nghệ, như công nghệ thép, công nghệ oto mà điển hình những năm 90 của thế kỷ trước. Điều đó nhấn mạnh rằng, việc áp dụng OE tăng năng suất lao động là hoạt động tổng hợp bao gồm nhiều yếu tố, và nó phải phát triển toàn diện, không chỉ ở cấp quản lý, cấp nhân viên, không chỉ ở các bộ phận riêng lẻ, mà nó cần phải là một tinh thần của cả một công ty, một tổ chức. Trong trường hợp nước Nhật, tinh thần đó có lẽ là còn cả của một dân tộc, khi nói tới nước Nhật là người ta nói tới lao động và nói tới tinh thần cải tiến không ngừng của họ.
+
+## Năng suất dưới góc nhìn giá trị
+
+Chúng ta vừa đã đi qua 2 ví dụ về năng suất ở trên, và chúng ta cũng vừa nói qua về ảnh hưởng của năng suất, vậy liệu có cách nào có thể định nghĩa và xác định chính xác năng suất là gì, liệu có cách nào có thể định nghĩa chung nhất cho khái niệm năng suất. Theo bản thân tôi câu trả lời chính là khái niệm dưới góc nhìn giá trị, góc nhìn theo quan điểm của các nhà kinh tế học. Xã hội bản chất nó là sự vận động theo quy luật kinh tế, giá trị được hình thành từ thị trường giữa người bán và người mua, bạn tăng năng suất có nghĩa là bạn sẽ tạo ra nhiều giá trị hơn. Và vấn đề là cần phải có người trả giá để xác định cho giá trị ấy. Năng suất sẽ được định nghĩa bằng giá trị trên một đơn vị thời gian. Nếu bạn làm ra một sản phẩm tuy nhiên không ai trả tiền để mua nó, hoặc nó không có giá trị gì thì cũng có thể xem như năng suất bằng 0. Tất nhiên cũng có những đồ vật hiện tại có thể không có giá, nhưng càng lâu càng có giá như đồ cổ thì đó lại là một vấn đề khác. Ở đây tôi chỉ muốn bàn đến mặt sản xuất ở các doanh nghiệp. Khảo sát nó dưới góc độ những gì tôi hiểu được.
+
+![](https://c2.staticflickr.com/6/5835/30417215771_df3fa103a5_b.jpg)
+
+Vậy bạn sẽ thấy nếu nhìn vào công thức thì câu chuyện sẽ chuyển về bài toán làm thế nào để tăng hiệu quả, năng suất lao động thành làm thế nào để tăng giá trị bạn làm ra. Bởi vì biến số thời gian là không đổi cho tất cả các công ty, các tổ chức. Nó là một biến số công bằng nhất khi ai cũng có 24h. Ở đây chúng ta lại thấy một bài toán điển hình của tất cả các công ty. Đó là câu hỏi trong các giáo trình kinh tế, mục đích hoạt động của công ty là gì. Câu trả lời thong thường là tối đa hóa lợi nhuận hay tối đa hóa cổ tức của cổ đông. Nó thực chất chính là tăng giá trị V ở phương trình trên. Vậy theo một cách nào đó, vấn đề mục đích kinh doanh của tổ chức cũng gắn liền với việc tăng năng suất lao động. Khi định nghĩa năng suất là giá trị tạo ra trên đơn vị thời gian thì chúng ta có thể nhận ra để tăng năng suất lao động nó sẽ không chỉ bao gồm tăng sản lượng, tăng chất lượng và đồng thời còn tăng hàm lượng chất sám, tăng tính sáng tạo,… nhằm tối đa hóa giá trị sản phẩm làm ra. Bạn có thể tối đa hóa nó bằng cách marketing để tăng được giá bán thì nó cũng tương đương nhau, bởi vì xét trên khía cạnh thị trường thì bản chất giá trị được định bởi quy luật cung cầu. Quy luật này phát biểu rằng thông qua sự điều chỉnh của thị trường, một mức giá cân bằng (còn gọi là mức giá thị trường) và một lượng giao dịch hàng cân bằng (lượng cung cấp bằng lượng nhu cầu) sẽ được xác định. (như hình dưới)
+
+![](https://c2.staticflickr.com/6/5690/30467330516_e3edebea98_b.jpg)
+
+Chính vì thế, trên khía cạnh giá trị, mục tiêu tăng năng suất đồng nghĩa với việc tối ưu hóa giá trị hàng hóa, dịch vụ bán ra. Đứng trên khía cạnh đó thước đo dễ nhìn thấy nhất của năng suất đối với một đất nước đó chính là thu nhập bình quân đầu người. Đó là ý nghĩa rộng của năng suất.
+
+Tóm lại từ những điều ở trên chúng ta có thể tóm tắt lại rằng.
+
+* Bản chất tăng năng suất theo nghĩa hẹp sẽ bao gồm tăng chất lượng và sản lượng, theo nghĩa rộng nó sẽ là tối đa hóa giá trị hàng hóa làm ra, dịch vụ cung cấp được.
+
+* Khi theo hướng tối đa hóa giá trị thì việc tăng năng suất không chỉ bao gồm việc tăng sản lượng, chất lượng dịch vụ mà nó còn liên quan tới các hoạt động tối đa hóa giá trị hàng hóa như marketing, sale ….
+
+* Năng suất cũng là một đại lượng đo được nếu dưới góc nhìn giá trị. Theo nghĩa đó, năng suất có thể hiểu chính là giá trị trung bình một đơn vị sản xuất làm ra được trong một đơn vị thời gian.
