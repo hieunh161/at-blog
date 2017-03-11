@@ -1,0 +1,8 @@
+<div class="share-container">
+<% if (theme.share === 'addtoany') { %>
+    <%- partial('addtoany') %>
+<% } %>
+</div>
+<% if (!theme.share || theme.share === 'default') { %>
+    <%- partial('default', { post: post }) %>
+<% } %>
